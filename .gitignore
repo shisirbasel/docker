@@ -1,0 +1,22 @@
+/env/
+
+# Environment variables
+.env
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+
+venv/
+env/
+
+
+
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+media/
+staticfiles/
